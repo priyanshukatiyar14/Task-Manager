@@ -83,7 +83,7 @@ Access the project in your web browser at: [http://127.0.0.1:8000/](http://127.0
 ## Deployed Links
 
 - Project Deployed URL: https://task-manager-pyq0.onrender.com
-- Swagger URL: https://task-manager-pyq0.onrender.com/docs/schema/swagger-ui/
+- Swagger Documentation URL: https://task-manager-pyq0.onrender.com/docs/schema/swagger-ui/
 - Redoc URL: https://task-manager-pyq0.onrender.com/docs/schema/redoc/
 
 ## Task Endpoints
