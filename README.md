@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide provides step-by-step instructions to set up the backend for a platform designed for users to share and explore book recommendations. The platform integrates with the Google Books API.
+This guide provides step-by-step instructions to set up the backend.
 
 ## Prerequisites
 
@@ -80,8 +80,7 @@ python manage.py runserver
 
 Access the project in your web browser at: [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
 
-### 7. Deployed Links
-
-Project Deployed URL: https://task-manager-pyq0.onrender.com
-Swagger URL: https://task-manager-pyq0.onrender.com/docs/schema/swagger-ui/
-Redoc URL: https://task-manager-pyq0.onrender.com/docs/schema/redoc/
+Deployed Links
+- Project Deployed URL: https://task-manager-pyq0.onrender.com
+- Swagger URL: https://task-manager-pyq0.onrender.com/docs/schema/swagger-ui/
+- Redoc URL: https://task-manager-pyq0.onrender.com/docs/schema/redoc/
