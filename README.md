@@ -20,7 +20,7 @@ Ensure the following tools are installed on your system:
 First, clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/priyanshukatiyar14/Task-Manager.git](https://github.com/priyanshukatiyar14/Task-Manager.git)
+git clone https://github.com/priyanshukatiyar14/Task-Manager.git
 cd Task-Manager
 ```
 
