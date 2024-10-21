@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This guide provides step-by-step instructions to set up the backend.
+This guide provides step-by-step instructions for setting up the backend, along with links to the deployed backend, Swagger documentation, and Redoc.
 
 ## Prerequisites
 
