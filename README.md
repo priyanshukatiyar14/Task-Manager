@@ -79,3 +79,9 @@ python manage.py runserver
 ```
 
 Access the project in your web browser at: [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+
+### 7. Deployed Links
+
+Project Deployed URL: https://task-manager-pyq0.onrender.com
+Swagger URL: https://task-manager-pyq0.onrender.com/docs/schema/swagger-ui/
+Redoc URL: https://task-manager-pyq0.onrender.com/docs/schema/redoc/
